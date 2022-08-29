@@ -1,0 +1,18 @@
+{
+  "name": "curso-typescript-fernandoherrera",
+  "version": "1.0.0",
+  "description": "Curso con ejercicios de typeScript con el profesor Fernando Herrera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "node",
+    "js",
+    "ts"
+  ],
+  "author": "Javier Armando Vargas Vega",
+  "license": "ISC"
+}
