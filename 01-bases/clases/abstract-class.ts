@@ -1,4 +1,6 @@
-/**Clases abstractas */
+/**Clases abstractas 
+ * Comentario añadido.
+*/
 
 (()=> {
     abstract class Mutante {
